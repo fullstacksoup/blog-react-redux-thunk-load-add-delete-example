@@ -1,0 +1,14 @@
+.img-icon {
+    display: 'flex';
+}
+.leftSide {
+
+    background-color: #99ceff;
+    margin-left: -25px;
+    padding-left: 220px;
+    padding-right: 10vw;
+    padding-bottom: 1px;
+    
+    clip-path: polygon(0 0%, 100% 0, 70% 100%, 0 100%);
+    
+}
